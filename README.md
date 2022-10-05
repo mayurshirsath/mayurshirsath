@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurshirsath
-- 👀 I’m interested in manual and automation testing on mobile and web apps,
-- 🌱 I’m currently learning xpath, API testing tool, Jmeter, selenium with java and python scripting
-- 💞️ I’m looking to collaborate on manual as well as automation testing
+- 👀 I’m interested in manual and automation testing on mobile and web apps, and in game testing
+- 🌱 I’m currently learning xpath web element locator, Postman API testing tool, Jmeter, selenium web automation with java, TestNG, Maven, Selenium Grid, Cucumber
+- 💞️ I’m actively looking to collaborate on manual as well as automation testing
 - 📫 How to reach me at m.shirsath21@gmail.com or contact me on +919028719513
 
 <!---
